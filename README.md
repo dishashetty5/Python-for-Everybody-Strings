@@ -1,6 +1,7 @@
 # Python-for-Everybody-Strings
 A string is a sequence of characters. You can access the characters one at a time
-with the bracket operator:
+with the bracket operator
+
 counter: A variable used to count something, usually initialized to zero and then
 incremented.
 empty string :A string with no characters and length 0, represented by two quotation marks.
